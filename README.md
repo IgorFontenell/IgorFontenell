@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 
 
@@ -15,3 +15,6 @@ Posso dizer que esse amor por programar vêm da minha paixão por desafios, semp
   - Meu primeiro contato com a programação foi com o Arduino e eu comecei porque queria montar uma engenhoca que 5 minutos antes do meu despertador tocar iria fazer café para mim para que eu acordasse com uma bela xícara de café quentinho.
   - Quando eu fiz intercâmbio na irlanda por 3 meses, eu passei tanto aperto por ser a minha primeira experiência internacional que o que restava da minha timidez foi embora.
   - Eu adoro desafios então se você está com algum tipo de dificuldade ou problema sinta-se livre para me perguntar, vou adorar!
+  
+  ![Igor Fontenelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorFontenell&count_private=true&border_radius=15px) 
+<img align="right" alt="Igor' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFontenell" />
