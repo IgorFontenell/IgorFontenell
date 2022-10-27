@@ -1,17 +1,17 @@
 ### Hey 👋 (English version) :us: 🇨🇦 🇬🇧
 
-My name is Igor Fontenelle and I'm 24 years old and I'm Brazilian! I'm currently at the end of a 9-month Bootcamp in software engineering, targeted towards becoming a Fullstack Javascript Developer. What keeps me moving forward is my passion for challenges, my curiosity, and my pursuit of success in my career.
+My name is Igor Fontenelle, I'm 24 years old and I'm Brazilian! I'm currently at the end of a 9-month Bootcamp in software engineering, targeted towards becoming a Fullstack Javascript Developer. What keeps me moving forward is my passion for challenges, my curiosity, and my pursuit of success in my career.
 
-My passion for coding began when I was working on a project when I needed it. After a while, I realized that I cared more about coding than the project itself. From that day forward I’ve been sure that this will be a Dev. was the path that I would take for my career.
+My passion for coding began when I was working on a project that need an Arduino to work as CPU. After a while, I realized that I cared more about coding than the project itself. From that day forward I’ve been sure that be a Dev. was the path that I would take for my career.
 
 ### Fun facts about me:
-  - Since I was 15 I have been living far away from home. This is because when I finished elementary school I wanted to be an ITA's engineer (ITA is the most difficult engineering college to get inside in Brazil). So I went 1200 miles away from my city to live in a boarding school with 200 guys during all of my high school.
-  - My first time with coding was when I wanted to create a machine where 5 minutes before my alarm rang it would make coffee for me so I would have always a nice hot cup of coffee when I woke up. I was using an Arduino as the CPU.
-  - When I was abroad for an internship, I had so many problems there, for not knowing how things work in another country, that any piece of shyness that I could possibly have vanished. I lived in Dublin (Ireland) for about 90 days.
+  - Since I was 15 I've been living far away from home. That's why when I finished elementary school I wanted to be an ITA's engineer (ITA is the most difficult engineering college to get inside in Brazil). So I went 1200 miles away from my city to live in a boarding school with 200 guys during all of my high school.
+  - My first time with coding was when I wanted to create a machine that 5 minutes before my alarm rang it would make coffee for me so I would always have  a nice hot cup of coffee when I woke up.
+  - When I was abroad for an internship, I had so many problems there, for not knowing how things work in another country, so any piece of shyness that I could possibly had vanished. I lived in Dublin (Ireland) for about 90 days.
   - I love challenges and solving puzzles, so if you have any kind of problem feel free to talk to me, I will be more than happy to help.
 
  ---------------------------------------------------------------------------------------------------------------------------------------------------------
-### Oi! 👋 (Versão em Português) 🇧🇷
+### Oi! 👋 (Versão em Português) 🇧🇷 🇵🇹
 
 Meu nome é Igor Fontenelle tenho 24 anos e atualmente estou terminando um bootcamp em software engineering com foco em me tornar um ***Desenvolvedor Full-Stack em JavaScript*** .Sou movido por desafios, pela minha curiosidade e busca pelo sucesso na carreira.
 
