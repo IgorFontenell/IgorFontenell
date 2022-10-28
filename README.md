@@ -57,3 +57,7 @@ My passion for coding began when I was working on a project that need an Arduino
 
   <a href="https://linkedin.com/in/igor-fontenelle"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
   <a href = "mailto:igorfontenelletexeira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin-bottom: 4px;" height="30px"></a>
+ 
+ ### 📖 CV
+  
+  <a href="https://drive.google.com/file/d/1NPklLuBA3mnzhJTzMwaBDYsNf5creFm6/view?usp=sharing"><img src="https://img.shields.io/badge/Curriculum-%FFFFFF.svg?style=for-the-badge&logo=&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
