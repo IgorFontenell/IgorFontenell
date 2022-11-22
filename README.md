@@ -60,6 +60,6 @@ My passion for coding began when I was working on a project that need an Arduino
  
  ### 📖 CV
   
-  <a href="https://drive.google.com/file/d/1Am84GR2rau8MKgr5EbQZjrTOgKoVAD90/view?usp=sharing"><img src="https://img.shields.io/badge /Curriculum(En)-%FFFFFF.svg?style=for-the-badge&logo=&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/1Am84GR2rau8MKgr5EbQZjrTOgKoVAD90/view?usp=sharing"><img src="https://img.shields.io/badge/Curriculum (En)-%FFFFFF.svg?style=for-the-badge&logo=&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
   
-  <a href="https://drive.google.com/file/d/1wB9i3IlSSTa4G30qcURi6fDWRdRRmgtv/view?usp=sharing"><img src="https://img.shields.io/badge/Curriculo(PT)-%FFFFFF.svg?style=for-the-badge&logo=&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/1wB9i3IlSSTa4G30qcURi6fDWRdRRmgtv/view?usp=sharing"><img src="https://img.shields.io/badge/Curriculo (PT)-%FFFFFF.svg?style=for-the-badge&logo=&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
